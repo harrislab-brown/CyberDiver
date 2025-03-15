@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 30ca261b-aa6d-4e69-b26b-fe4bc460bba9)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "PWM" (shape input) (at 121.92 96.52 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid c093fc90-4559-4844-9a2d-49ab59251409)
+  )
+)

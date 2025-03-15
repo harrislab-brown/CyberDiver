@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ActiveImpactor_Control")(type "KiCad")(uri "${KIPRJMOD}/ActiveImpactor_Control.kicad_sym")(options "")(descr ""))
+)

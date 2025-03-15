@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ActiveImpactor_Encoder_Celera")(type "KiCad")(uri "${KIPRJMOD}/ActiveImpactor_Encoder_Celera.pretty")(options "")(descr ""))
+)
