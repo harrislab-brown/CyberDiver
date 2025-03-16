@@ -1,5 +1,9 @@
 # Data
 
+<p align="center">
+  <img src="https://github.com/johntantolik/CyberDiver/blob/main/assets/CyberDiver_maneuver.png" width="1000">
+</p>
+
 This directory contains the raw data files from our experiments using the CyberDiver. The CSV files contain aggregated tables of the peak acceleration corresponding to figures 3(D), 4(C), and 5(C).
 
 ## Validation
