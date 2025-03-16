@@ -2953,17 +2953,6 @@
 		)
 		(uuid "20747b59-7c84-4ae2-8615-20cbb05a8337")
 	)
-	(text "Do we need series termination?\nLength matching?\nFor now I will try to keep traces as short/equal length\nas possible and hope for the best but not worry about it\ntoo much - we can still probably write data directly to \nthe SD card to some extent if the RAM doesn't work"
-		(exclude_from_sim no)
-		(at 115.57 194.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6c75d3fb-d330-42d7-bf26-3ee25a053a54")
-	)
 	(text "16 MB RAM, available in large \nquantities on LCSC or Mouser"
 		(exclude_from_sim no)
 		(at 156.21 135.89 0)
