@@ -1,4 +1,4 @@
-# CyberDiver: an untethered cyber-physical robotic platform for water-entry experiments
+# CyberDiver: an untethered cyber-physical robotic impactor for water-entry experiments
 
 <p align="center">
   <img src="https://github.com/johntantolik/CyberDiver/blob/main/assets/CyberDiver_splash.png" width="1000">
