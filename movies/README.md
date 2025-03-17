@@ -20,4 +20,4 @@ The CyberDiver manipulates the crown splash by performing active maneuvers durin
 
 ## Movie S5
 
-Labeled version of the CyberDiver crown splash manipulation movie. Version of movie S4 with labels provided for the different maneuver cases and indications for the timing of the maneuver. The playback is 30 times slower than actual speed.
+Version of the CyberDiver crown splash manipulation movie with no labels. The playback in this video is 30 times slower than actual speed.
