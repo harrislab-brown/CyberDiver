@@ -4,7 +4,7 @@ This directory contains supplementary movies of the CyberDiver.
 
 ## Movie S1
 
-CyberDiver entering the water at 4 m/s while behaving as a 5 N/mm undamped linear spring. The impact is filmed from above the water surface with front lighting to visualize the CyberDiver’s construction. The playback is 100 times slower than actual speed.
+CyberDiver entering the water at 4 m/s while behaving as a 5 N/mm undamped linear spring. The impact is filmed from above the water surface with front lighting to visualize the CyberDiver’s construction, corresponding to Figure 1(A) in the article. The playback is 100 times slower than actual speed.
 
 ## Movie S2
 
@@ -16,8 +16,8 @@ Visualization of the impulse response of the cyber-physical system. An impulsive
 
 ## Movie S4
 
-The CyberDiver manipulates the crown splash by performing active maneuvers during impact. The CyberDiver enters the water at 2 m/s and initiates an active maneuver at the moment of impact. Five different maneuver cases are shown where the impactor either extends or retracts the nose, resulting in amplification or attenuation of the crown splash formation. Movie version of figures 6(A-E) in the article.
+The CyberDiver manipulates the splash crown by performing active maneuvers during impact. The CyberDiver enters the water at 2 m/s and initiates an active maneuver at the moment of impact. Five different maneuver cases are shown where the impactor either extends or retracts the nose, resulting in amplification or attenuation of the splash formation, respectively. Movie version of Figures 6(A-E) in the article.
 
 ## Movie S5
 
-Version of the CyberDiver crown splash manipulation movie with no labels. The playback in this video is 30 times slower than actual speed.
+Version of the CyberDiver splash manipulation movie with no labels. The playback in this video is 30 times slower than actual speed.
